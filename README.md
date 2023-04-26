@@ -1,5 +1,5 @@
 # ESP32-Bluetooth
-ESP32 Bluetooth
+ESP32 Bluetooth mouse with WT32-SC01
 
 
 ![WhatsApp Görsel 2023-04-26 saat 09 37 37](https://user-images.githubusercontent.com/5972349/234512099-72341313-9f6d-4e79-9bca-ec1d5cc6982f.jpg)
